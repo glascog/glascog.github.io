@@ -1,1 +1,14 @@
+body {
+  background-color: lightblue;
+  color: darkblue;
+  font-family: verdana, proxima, sans-serif;
+  margin: 10% 20%;
+}
 
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid darkblue;
+  border-bottom: 2px solid darkblue;
+  background-color: skyblue;
+}
