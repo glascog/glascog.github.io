@@ -1,17 +1,39 @@
 body {
-  background-color: lightsteelblue;
-  color: darkblue;
-  font-family: garamond, georgia, serif;
+  background-color: #347B98;
+  color: #1A3E4C;
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
   margin: 10% 20%;
 }
 
-.exp-header{
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 2px solid darkblue;
-  border-bottom: 2px solid darkblue;
+.name{
+  font-family: Georgia, serif;
+  font-size: 40px;
+  color: #1A3E4C;
+  padding-top: 10px;
 }
 
+.description{
+  color: #67AFCB;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-right: 300px;
+  
+
+}
+.exp-header{
+  text-align: left;
+  text-transform: uppercase; 
+  text-decoration: overline;
+}
+  
 img{
   float: right;
 }
+.contact{
+ text-align: left;
+ font-family: Georgia, serif;
+ 
+}   
+
+
