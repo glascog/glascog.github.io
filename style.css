@@ -29,10 +29,15 @@ body {
 img{
   float: right;
 }
-.contact{
- text-align: left;
+.footer {
+ text-align: center;
  font-family: Georgia, serif;
  
 }   
+
+.footer {
+  background: #67AFCB;
+  padding: 5px;
+}
 
 
