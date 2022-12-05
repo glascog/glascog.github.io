@@ -8,7 +8,7 @@ body {
 
 .name{
   font-family: Georgia, serif;
-  font-size: 40px;
+  font-size: 38px;
   color: #1A3E4C;
 }
 
@@ -17,8 +17,6 @@ body {
   font-size: 20px;
   text-transform: uppercase;
   margin-right: 300px;
-  
-
 }
 .exp-header{
   text-align: left;
@@ -29,12 +27,10 @@ body {
 img{
   float: right;
 }
+
 .footer {
  text-align: center;
  font-family: Georgia, serif;
  background: #67AFCB;
  padding: 5px;
-}   
-
-
-
+}  
