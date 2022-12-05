@@ -32,12 +32,9 @@ img{
 .footer {
  text-align: center;
  font-family: Georgia, serif;
- 
+ background: #67AFCB;
+ padding: 5px;
 }   
 
-.footer {
-  background: #67AFCB;
-  padding: 5px;
-}
 
 
